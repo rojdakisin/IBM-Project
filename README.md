@@ -1,4 +1,4 @@
-# IBM
+# IBM-Project
 Python Project for Data Science
 
 Hisse Senedi Performansının Analiz Edilmesi ve Bir Gösterge Tablosu Oluşturulması
