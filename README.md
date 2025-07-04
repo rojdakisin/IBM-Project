@@ -1,5 +1,6 @@
 # IBM
 Python Project for Data Science
+
 Hisse Senedi Performansının Analiz Edilmesi ve Bir Gösterge Tablosu Oluşturulması
 
 Bu proje için, müşterilerin paralarını hisse senetlerine yatırmalarına yardımcı olan yeni bir yatırım firması için çalışan bir Veri Bilimcisi / Veri Analisti rolünü üstleneceksiniz. Göreviniz, Python kütüphanelerini kullanarak çeşitli kaynaklardan geçmiş hisse fiyatı ve üç aylık gelir raporları gibi finansal verileri çıkarmak ve popüler hisse senetleri üzerinde web kazıma yapmaktır. Bu verileri topladıktan sonra, kalıpları veya eğilimleri belirlemek için bir gösterge tablosunda görselleştireceksiniz. Birlikte çalışacağımız hisse senetleri Tesla, Amazon, AMD ve GameStop'tur.
