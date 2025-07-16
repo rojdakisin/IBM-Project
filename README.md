@@ -1,5 +1,5 @@
 # IBM-Project
-Python Project for Data Science
+**Python Project for Data Science**
 
 # Proje-1 Hisse Senedi Performansının Analiz Edilmesi ve Bir Gösterge Tablosu Oluşturulması
 
