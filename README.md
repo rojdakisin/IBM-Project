@@ -22,7 +22,7 @@ Birlikte çalışacağımız hisse senetleri Tesla, Amazon, AMD ve GameStop'tur.
 
 Bu görevde, bir Gayrimenkul Yatırım Ortaklığı'nda çalışan bir Veri Analistisiniz. Ortaklık, Konut amaçlı gayrimenkullere yatırım yapmaya başlamak istiyor. Bir dizi özellik göz önüne alındığında bir evin piyasa fiyatını belirlemekle görevlendirildiniz. Metrekare, yatak odası sayısı, kat sayısı gibi nitelikleri veya özellikleri kullanarak konut fiyatlarını analiz edecek ve tahmin edeceksiniz.
 
-Proje Hedefleri
+**Proje Hedefleri**
 
 Bu projede aşağıdaki adımları gerçekleştireceksiniz:
 
